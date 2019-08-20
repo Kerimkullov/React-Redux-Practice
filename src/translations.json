@@ -1,0 +1,96 @@
+{
+    "nav":{
+        "home":[
+            "Home",
+            "Главная",
+            "Ev"
+        ],
+        "about": [
+            "About",
+            "O Hac",
+            "Biz"
+        ],
+        "shop": [
+            "Shop",
+            "Магазин",
+            "Magaza"
+        ]
+    },
+
+        "about":{
+            "title":[
+                "About",
+                "O Hac",
+                "Biz"
+            ],
+            "text":[
+                "WRITE A DESCRIPTION OF ONLINE STORE",
+                "ПИШЕМ ОПИСАНИЕ ИНТЕРНЕТ-МАГАЗИНА",
+                "ONLINE MAĞAZA BİR AÇIKLAMA YAZIN"
+            ]
+        },
+
+        "shop": {
+            "title": [
+                "Shop Component",
+                "Компонент Магазина",
+                "Shop Componenti"
+            ],
+            "text": [
+                "WRITE A DESCRIPTION OF ONLINE STORE",
+                "ПИШЕМ ОПИСАНИЕ ИНТЕРНЕТ-МАГАЗИНА",
+                "ONLINE MAĞAZA BİR AÇIKLAMA YAZIN"
+            ]
+        },
+
+        "auth":{
+            "title":[
+                "Sign in",
+                "Войти",
+                "Oturum Ac"
+            ],
+            "button":[
+                "Sign in",
+                "Войти",
+                "Oturum Ac"
+            ]
+        },
+
+        "regis": {
+            "title": [
+                "Sign up",
+                "Регистрация",
+                "Kaydetme"
+            ],
+            "button": [
+                "Sign up",
+                "Регистрация",
+                "Kaydetme"
+            ]
+        },
+
+
+    "movie": {
+        "title": [
+            "Jurassic Park",
+            "Le Parc jurassique",
+            "El parque jurásico"
+        ],
+        "text": [
+            "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Id quam iste tenetur. Harum, dolorem eum dolor itaque, perspiciatis officiis repellat pariatur perferendis totam iure odit vitae amet atque? Temporibus laborum soluta corrupti maiores eos recusandae atque praesentium excepturi ratione aut.psum dolor, sit amet consectetur adipisicing elit. Sunt velit recusandae dolor laborum placeat laudantium iste veritatis excepturi delectus a fugiat non, quaerat facere consectetur quisquam! Labore excepturi modi consequatur accusamus! Minus, id non veniam atque ad earum architecto iusto.",
+            "Lorem, dolor ipsum dolor sit amet consectetur rabais. Cela vaut mieux que celui-ci est lié. Parmi ceux-ci, la douleur de lui, et douleurs, donc, rencontre les devoirs de la patience à supporter l'ensemble du droit de repousser une résultante de la vie, aime haïr? Dans le temps de labeur, et les faibles d'entre eux traitent les ancêtres accueillir corruption du présent, et la nature de leur aut.psum a accepté la douleur, asseyez-vous des remises amet consectetur. Il y a bien agréable dans ses louanges avec Cantiques, labeur, et cela de la vérité, il souhaite accueillir la douleur acceptée été choisie par son évasion n'a pas, il devrait chercher à faire l'homme principal! Bienvenue façons de réaliser le travail dénoncer! La Petite, et d'entre eux que je ne partirai pas, et le constructeur de maître avec juste.",
+            "Lorem, ipsum dolor sit amet rebajas Consectetur. Eso es mejor que éste está obligado. De éstos, el dolor de él, y dolores, por lo tanto, el encuentro de los deberes de la perdurable de la totalidad de la derecha para repeler una resultante de la vida, ama a odiar? En el tiempo de trabajo, y los débiles de ellos son corruptores la bienvenida a los antepasados de los actuales, y la naturaleza de aut.psum las aceptó el dolor, se siente rebajas amet Consectetur. Hay agrada en su elogio con cánticos, esfuerzo, y esto de la verdad, desea dar la bienvenida al dolor aceptado sido seleccionados por su fuga no, se debe tratar de hacer el hombre principal! Bienvenido maneras de lograr denunciar el trabajo! El Menor, y de los que no voy a entrar, y para el maestro de obras con la justa."
+        ]
+    }
+,
+    "title": [
+        "My Article title",
+        "My Article title FR",
+        "My Article title ES"
+    ],
+    "greeting": [
+        null,
+        "Bonjour ${name}!",
+        "Hola ${name}!"
+    ]
+}
